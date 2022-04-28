@@ -1,2 +1,2 @@
 @echo off
-enviosShell.exe Adhesion 100
+EnviosToAzure.exe Adhesion 100
