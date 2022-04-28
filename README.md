@@ -1,5 +1,5 @@
 
-# Envio de Datos a Azure Microsoft
+# Envio de Datos a Microsoft Azure
 
 Programa desarrollado en C# (08/2020)
 
@@ -37,3 +37,5 @@ C# Console
 .NET Framework 3.5
 
 Library Newtonsoft.Json
+
+Conexión con Microsoft Azure
