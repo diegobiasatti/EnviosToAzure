@@ -1,0 +1,48 @@
+2022-04-28 12:57:08 Main exception: System.Data.OleDb.OleDbException: No se pudo encontrar el archivo 'C:\Users\User\Desktop\Portfolio\enviosShell\bin\Debug\Datos.mdb'.
+   en System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   en System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   en System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup)
+   en System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   en System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   en System.Data.OleDb.OleDbConnection.Open()
+   en EnviosToAzure.Recursos.AvisoAlMonster(Int32 fecha_hora_or_descripcion_error) en C:\Users\User\Desktop\Portfolio\enviosShell\Recursos.cs:línea 165
+2022-04-28 12:57:20 Main exception: System.Data.OleDb.OleDbException: No se pudo encontrar el archivo 'C:\Users\User\Desktop\Portfolio\enviosShell\bin\Debug\Datos.mdb'.
+   en System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   en System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   en System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup)
+   en System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   en System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   en System.Data.OleDb.OleDbConnection.Open()
+   en EnviosToAzure.Recursos.AvisoAlMonster(Int32 fecha_hora_or_descripcion_error) en C:\Users\User\Desktop\Portfolio\enviosShell\Recursos.cs:línea 165
+2022-04-28 12:57:29 Main exception: System.Data.OleDb.OleDbException: No se pudo encontrar el archivo 'C:\Users\User\Desktop\Portfolio\enviosShell\bin\Debug\Datos.mdb'.
+   en System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   en System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   en System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup)
+   en System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   en System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   en System.Data.OleDb.OleDbConnection.Open()
+   en EnviosToAzure.Recursos.AvisoAlMonster(Int32 fecha_hora_or_descripcion_error) en C:\Users\User\Desktop\Portfolio\enviosShell\Recursos.cs:línea 165
+2022-04-28 12:57:36 Main exception: System.Data.OleDb.OleDbException: No se pudo encontrar el archivo 'C:\Users\User\Desktop\Portfolio\enviosShell\bin\Debug\Datos.mdb'.
+   en System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   en System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   en System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup)
+   en System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   en System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   en System.Data.OleDb.OleDbConnection.Open()
+   en EnviosToAzure.Recursos.AvisoAlMonster(Int32 fecha_hora_or_descripcion_error) en C:\Users\User\Desktop\Portfolio\enviosShell\Recursos.cs:línea 165
+2022-04-28 12:58:01 Main exception: System.Data.OleDb.OleDbException: No se pudo encontrar el archivo 'C:\Users\User\Desktop\Portfolio\enviosShell\bin\Debug\Datos.mdb'.
+   en System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   en System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   en System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup)
+   en System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   en System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   en System.Data.OleDb.OleDbConnection.Open()
+   en EnviosToAzure.Recursos.AvisoAlMonster(Int32 fecha_hora_or_descripcion_error) en C:\Users\User\Desktop\Portfolio\enviosShell\Recursos.cs:línea 165
+2022-04-28 12:58:32 Main exception: System.Data.OleDb.OleDbException: No se pudo encontrar el archivo 'C:\Users\User\Desktop\Portfolio\enviosShell\bin\Debug\Datos.mdb'.
+   en System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   en System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   en System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup)
+   en System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   en System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   en System.Data.OleDb.OleDbConnection.Open()
+   en EnviosToAzure.Recursos.AvisoAlMonster(Int32 fecha_hora_or_descripcion_error) en C:\Users\User\Desktop\Portfolio\enviosShell\Recursos.cs:línea 165
